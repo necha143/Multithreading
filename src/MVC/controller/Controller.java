@@ -1,8 +1,8 @@
 package MVC.controller;
 
-import com.javarush.task.task36.task3608.model.Model;
-import com.javarush.task.task36.task3608.view.EditUserView;
-import com.javarush.task.task36.task3608.view.UsersView;
+import MVC.model.Model;
+import MVC.view.EditUserView;
+import MVC.view.UsersView;
 
 public class Controller {
     private Model model;

@@ -1,8 +1,8 @@
 package MVC.model.service;
 
-import com.javarush.task.task36.task3608.Util;
-import com.javarush.task.task36.task3608.bean.User;
-import com.javarush.task.task36.task3608.dao.UserDao;
+import MVC.Util;
+import MVC.bean.User;
+import MVC.dao.UserDao;
 
 import java.util.ArrayList;
 import java.util.List;

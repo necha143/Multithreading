@@ -1,6 +1,6 @@
 package MVC.model.service;
 
-import com.javarush.task.task36.task3608.bean.User;
+import MVC.bean.User;
 
 import java.util.List;
 

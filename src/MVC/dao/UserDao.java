@@ -1,7 +1,7 @@
 package MVC.dao;
 
-import com.javarush.task.task36.task3608.bean.User;
-import com.javarush.task.task36.task3608.dao.mock.DataSource;
+import MVC.bean.User;
+import MVC.dao.mock.DataSource;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,7 +1,7 @@
 package MVC.view;
 
-import com.javarush.task.task36.task3608.controller.Controller;
-import com.javarush.task.task36.task3608.model.ModelData;
+import MVC.controller.Controller;
+import MVC.model.ModelData;
 
 public interface View {
     void refresh(ModelData modelData);
