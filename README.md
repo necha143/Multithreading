@@ -6,6 +6,7 @@
 ### - [Refactoring](https://github.com/necha143/Multithreading/tree/master/src/Refactoring) </br>
 ### - [Messanger](https://github.com/necha143/Multithreading/tree/master/src/Messanger) </br>
 ### - [Archiver](https://github.com/necha143/Multithreading/tree/master/src/Archiver) </br>
+### - [HTML Editor](https://github.com/necha143/Multithreading/tree/master/src/HTML_Editor) </br>
 [Chain_of_words](https://github.com/necha143/Multithreading/blob/master/src/Chain_of_words.java) </br>
 [Converted_words](https://github.com/necha143/Multithreading/blob/master/src/Converted_words.java) </br>
 [Equals_HashCode](https://github.com/necha143/Multithreading/blob/master/src/Equals_HashCode.java) </br>
